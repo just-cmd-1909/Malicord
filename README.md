@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/last-commit/Malicord/Malicord?style=flat">
-<img src="https://img.shields.io/github/stars/Malicord/Malicord?color=brightgreen">
-<img src="https://img.shields.io/github/forks/Malicord/Malicord?color=brightgreen">
+<img src="https://img.shields.io/github/last-commit/KSCH-58/Malicord?style=flat">
+<img src="https://img.shields.io/github/stars/KSCH-58/Malicord?color=brightgreen">
+<img src="https://img.shields.io/github/forks/KSCH-58/Malicord?color=brightgreen">
 </p>
 
 
@@ -27,7 +27,7 @@
 - [⚔️・Features](#features)
 - [👁️・Preview](#preview)
 - [📝・Changelog](#changelog)
-- [🦜・Injection](https://github.com/KSCH-58/cerf)
+- [🦜・Injection](https://github.com/KSCH-58/sub)
 - [💼・Term](#terms)
 - [📝・Todo](#todo)
 - [⚠️・Note](#note)
