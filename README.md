@@ -10,7 +10,7 @@
  </p>
 <p align="center"> 
   <kbd>
-<img src="https://i.redd.it/9vfqb0o839o91.png" width="328"></img>
+<img src="https://raw.githubusercontent.com/KSCH-58/sub/main/assets/malicord%20(3).jpeg" width="328"></img>
   </kbd>
 </p>
 
